@@ -13,4 +13,3 @@ done >> index.html;
 echo -e "\n\t</div>\n\n\t<script>\n\t\tshuffleCards()\n\t\tinitGallery()\n\t</script>\n</body>" >> index.html;
 
 cp -R "$HOME/.local/lib/autogallery" "lib"
-
