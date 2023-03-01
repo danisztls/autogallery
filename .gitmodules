@@ -1,0 +1,4 @@
+[submodule "lib/lightgallery.js"]
+	path = lib/lightgallery.js
+	url = https://github.com/sachinchoolur/lightgallery.js
+	branch = master
