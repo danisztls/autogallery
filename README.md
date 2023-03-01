@@ -7,14 +7,6 @@ I'm using [sachinchoolur/lightgallery.js](https://github.com/sachinchoolur/light
 This is a demo. I intend to rewrite it in Python as a fully featured web photo gallery.
 
 ## Usage
-### Install
-```sh
-./setup
+```shell
+./autogallery <path-to-dir-with-pics>
 ```
-
-### Generate Gallery
-```sh
-autogallery <path>
-```
-
-*where 'path' is the dir that contains the photos*
